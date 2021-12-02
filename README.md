@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @negiutsav9
+- 👋 Hi, I’m Utsav
 - 👀 I’m interested in Software Development, Machine Learning and AI
 - 🌱 I’m currently learning Computer Science and Computer Engineering at UW-Madison
 - 💞️ I’m looking to collaborate on projects based on C, C++, Java and Python
