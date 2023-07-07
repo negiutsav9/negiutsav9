@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Utsav
-- 👀 I’m interested in Software Development, Machine Learning and AI
-- 🌱 I’m currently learning Computer Science and Computer Engineering at UW-Madison
-- 💞️ I’m looking to collaborate on projects based on C, C++, Java and Python
+- 👀 I’m a Software Development and Machine Learning enthusiast
+- 🌱 I'm a graduate in field of Computer Engineering & Computer Science at University of Wisconsin-Madison
+- 💞️ I’m looking to forward to collaborate on projects based on Software Development and Machine Larning.
 - 📫 How to reach me on my email: unegi@wisc.edu
+- Check out my personal website - [Utsav's Personal Website](https://personal-website-v2-pi.vercel.app/projects)
 
 <!---
 negiutsav9/negiutsav9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
